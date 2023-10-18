@@ -2857,7 +2857,7 @@
   (symbol (lib_id "Device:C") (at 55.88 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 736b46bb-fc46-4ecb-bdb6-034c94b346d7)
-    (property "Reference" "C_decuple-ref-msgeq1" (at 59.69 134.62 0)
+    (property "Reference" "C_decuple-ref1" (at 59.69 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 59.69 137.16 0)
@@ -2880,7 +2880,7 @@
     (instances
       (project "mainboard"
         (path "/3161c04b-751c-4104-8356-8b48a6ef4a37"
-          (reference "C_decuple-ref-msgeq1") (unit 1)
+          (reference "C_decuple-ref1") (unit 1)
         )
       )
     )
